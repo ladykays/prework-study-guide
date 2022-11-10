@@ -25,7 +25,6 @@ To use this Prework Study Guide, you can read the notes from top to bottom but i
 
 Note: When using the chrome browser, you might see an error "Unchecked runtime.lastError: The message port closed before a response was received.". This icould be as a result of an extension conflict. If this occures, disable all extensions on your browser or open the page in Incognitio mode and the error message should disappear.
 
-![Alt text](assets/images/screenshot.png "Chrome browser error screen")
 
 ## Credits
 
